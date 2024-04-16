@@ -53,3 +53,6 @@ Entidades:
 #### Primeiro Diagrama
 
 !["Diagrama Casa Oliveira"](diagrama-casaoliveira.png)
+
+#### Esquema de tabelas para o DB
+!["Esquema Casa Oliveira excel"](esquemacasaoliveira.png)
